@@ -8,6 +8,7 @@ The project is to make use of pandas, matplotlib, & seaborn libraries.
 3.Feature engineering and Model building.
 # Contents 
 1.Decision Tree
+
 2.Random Forest model
 ### differed between not.fully.paid and credit.policy
 ![](loanimg.png)
